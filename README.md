@@ -1,4 +1,5 @@
 202130442921 滕凤军
+
 Product：存储商品信息（categoryId, categoryName, price, stock, status），用于 products.jsp 和 seller_dashboard.jsp 展示。
 Order：存储订单（purchaseId, userId, categoryId, purchaseDate, price, quantity），用于订单查看。
 SalesTrend：存储趋势（categoryId, monthlySales, predictedSales, confidence），展示预测结果。
